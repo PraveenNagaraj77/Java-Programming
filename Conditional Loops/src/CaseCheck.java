@@ -17,7 +17,7 @@ public class CaseCheck {
 
 //        Entire word Check
 
-        System.out.println("Enter a word");
+        System.out.println("Enter a word :");
         String word = in.next().trim();
 
         if(word.matches("[a-z]+")){
